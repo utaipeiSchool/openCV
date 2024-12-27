@@ -6,11 +6,10 @@
 
 ## 專案架構
 
-```plaintext
-├── test/                 # 存放待辨識的圖片
-├── testAns/              # 存放辨識結果
-├── haar_carplate.xml     # Haar 特徵分類器檔案
-└── 車牌辨識Final.ipynb   # 主程式碼
+├── test/                 # 存放待辨識的圖片  
+├── testAns/              # 存放辨識結果  
+├── haar_carplate.xml     # Haar 特徵分類器檔案  
+└── 車牌辨識Final.ipynb   # 主程式碼  
 
 ## 使用方法
 
